@@ -1,24 +1,24 @@
-name: Appsterdam Embassy Page
+name: Appsterdam Greece
 markdown: redcarpet
 pygments: true
 paginate: 5
 paginate_path: "pages/page:num"
-timezone: Europe/Amsterdam
+timezone: Europe/Athens
 exclude: [LICENCE, README.md]
 permalink: pages/:title/
 embassy:
-  name: Appsterdam Embassy Name
-  url: http://embassy.appsterdam.rs
-  location: Amsterdam
-  email: info@appsterdam.rs
+  name: Appsterdam Greece
+  url: http://greece.appsterdam.rs
+  location: Greece
+  email: greece@appsterdam.rs
   social:
     twitter:
-      handle: "@Appsterdam"
-      url: http://www.twitter.com/appsterdam
+      handle: "@AppsterdamGR"
+      url: http://www.twitter.com/AppsterdamGR
     github:
-      handle: Appsterdam
-      url: https://www.github.com/appsterdam/open
-    facebook: http://www.facebook.com/appsterdam
+      handle: Appsterdam Greece
+      url: https://www.github.com/AppsterdamGreece
+    facebook: https://www.facebook.com/AppsterdamsGreekEmbassy
     linkedin: http://www.linkedin.com/groups/Appsterdam-3920468
     flickr: http://www.flickr.com/groups/1723974@N21
     youtube: http://www.youtube.com/appsterdam
