@@ -9,7 +9,7 @@ Last Wednesday, July 31st, Appsterdam Greece hosted a special edition of [Meeten
 
 At [Café La Rambla](https://www.facebook.com/pages/La-Rambla/160202257374396 'Cafe La Rambla in Athens') in Athens around 45 App Makers gathered to meet each other, have a drink and say hi and goodbey before everybody will go to their vaction destination.
 
-I was great to see all the familiar and new faces and we will be sure to continue the Weekly Meeten en Drinken from September onwards.
+It was great to see all the familiar and new faces and we will be sure to continue the Weekly Meeten en Drinken from September onwards.
 
 ## Thessaloniki
 
