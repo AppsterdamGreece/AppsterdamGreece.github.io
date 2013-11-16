@@ -40,7 +40,10 @@ We will provide several workstations with [Lua Vision] installed connected to a 
     <td style="padding-right: 10px;">
       <p>
         <a href="https://github.com/wizgrav">Giannis Gravezas</a> is a software engineer with 15 years of experience in Open Source and proprietery projects.
-      </p>  
+      </p>
+      <p>
+        Giannis is one of the active contributors to the Open Kinect project.
+      </p>
       <p>
         During the day he writes front-end code and in the evenings he hacks on complex backend projects with [Lua].
       </p>
