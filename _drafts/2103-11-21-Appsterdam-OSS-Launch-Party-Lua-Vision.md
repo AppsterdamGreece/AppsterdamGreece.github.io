@@ -7,15 +7,17 @@ categories: events announcements oss
 
 We are happy to announce the first Appsterdam OSS Launch Party. We hope it will be the first of many.
 
-On Thursday, December 5th, [Giannis Gravezas] will launch and present [Lua Vision].
+On Thursday, December 5th, [Yannis Gravezas] will launch and present [Lua Vision].
 
 ## The Evening
 
 You are welcome to join on Thursday, December 5th, from 21:00 EST at [Stone Soup] in Athens.
 
-[Giannis Gravezas] will kick of the evening by presenting [Lua Vision], what it is, how it works and how you can contribute.
+[Yannis Gravezas] will kick off the evening by presenting [Lua Vision], what it is, how it works and how you can contribute.
+Panos Xinos will introduce the Lua language, it's features and his real world experience with it.
+Stefanos Poiitidis will explain LuaJit & FFI, a revolutionary concept that brings native performance to scripting
 
-We will provide several workstations with [Lua Vision] installed connected to a [Kinect] and a projector, and, off course, you can bring your own machine. We will help you get set up, answer any question and show you what the module is capable of.
+We will provide several workstations with [Lua Vision] installed connected to a [Kinect] and a projector, and, of course, you can bring your own machine. We will help you get set up, answer any question and show you what the module is capable of.
 
 We will provide some drinks and snacks and will accept donations to share in the costs.
 
@@ -24,9 +26,9 @@ Places are limited so please [RSVP here](https://www.facebook.com/events/1385748
 ## Lua Vision, an Open Source Kinect module in Lua
 
 [Lua Vision] is a module that provides facilities for using depth data in [Lua].
-It's main target is the primesense chipset which powers the Microsoft [Kinect].
+It's first target is the primesense chipset which powers the Microsoft [Kinect].
 
-[Lua Vision] is aimed at both coders and artist who want to create artistic and academic visuals driven by the [Kinect].
+[Lua Vision] is aimed at both coders and artists who want to create artistic and academic visuals driven by the [Kinect].
 
 The module features:
 
@@ -37,16 +39,16 @@ The module features:
 * It uses the buffers provided from the void module or LuaJit FFI 
 
 
-### About the Presentor
+### About the Presenter
 
 <table>
   <tr>
     <td style="padding-right: 10px;">
       <p>
-        <a href="https://github.com/wizgrav">Giannis Gravezas</a> is a software engineer with 15 years of experience in Open Source and proprietery projects.
+        <a href="https://github.com/wizgrav">Yannis Gravezas</a> is a software engineer with 15 years of experience in open Source and proprietary projects.
       </p>
       <p>
-        Giannis is one of the active contributors to the Open Kinect project.
+        Yannis is one of the active contributors to the Open Kinect project.
       </p>
       <p>
         During the day he writes front-end code and in the evenings he hacks on complex backend projects with <a href="http://www.lua.org" title="The Programming Language Lua">Lua<a/>.
@@ -66,10 +68,10 @@ The module features:
           Github: <a href="https://github.com/wizgrav">wizgrav</a>
         </li>
         <li> 
-          Website: <a href="http://revoxel.com">revoxel.com</a>
+          Website: <a href="http://wizgrav.com">wizgrav.com</a>
         </li>
         <li> 
-          <a href="http://revoxel.com/cv.yannis.gravezas.pdf">Dowload his CV here</a>
+          <a href="http://wizgrav.com/cv.yannis.gravezas.pdf">Dowload his CV here</a>
         </li>
     </td>
   </tr>
@@ -83,7 +85,7 @@ The module features:
 *[Event RSVP](https://www.facebook.com/events/1385748788339397)
 
 
-[Giannis Gravezas]: https://github.com/wizgrav "Giannis Gravezas On Github"
+[Yannis Gravezas]: https://github.com/wizgrav "Giannis Gravezas On Github"
 [Lua Vision]: https://github.com/wizgrav/lua-vision "Lua Vision On Github"
 [Kinect]: http://openkinect.org/ "Open Kinect"
 [Lua]: http://www.lua.org "The Programming Language Lua"
