@@ -47,7 +47,7 @@ The module features:
         Giannis is one of the active contributors to the Open Kinect project.
       </p>
       <p>
-        During the day he writes front-end code and in the evenings he hacks on complex backend projects with [Lua].
+        During the day he writes front-end code and in the evenings he hacks on complex backend projects with <a href="http://www.lua.org" title="The Programming Language Lua">Lua<a/>.
       </p>
     </td>
     <td rowspan="2">
