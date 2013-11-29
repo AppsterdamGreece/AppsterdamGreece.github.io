@@ -84,7 +84,7 @@ The module features:
 **[Stone Soup]**  
 *[Charilou Trikoupi 18, 5th floor](http://maps.google.com?q=Charilou%20Trikoupi%2018,%20Athens,%20Greece)*  
 *Contact: [greece@appsterdam.rs](mailto:greece@appsterdam.rs)*  
-*[Event RSVP](https://www.facebook.com/events/1385748788339397)
+*[Event RSVP](https://www.facebook.com/events/1385748788339397)*
 
 
 [Yannis Gravezas]: https://github.com/wizgrav "Giannis Gravezas On Github"
