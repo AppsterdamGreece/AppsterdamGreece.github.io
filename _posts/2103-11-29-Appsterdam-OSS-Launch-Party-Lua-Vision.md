@@ -11,7 +11,7 @@ On Thursday, December 5th, [Yannis Gravezas] will launch and present [Lua Vision
 
 ## The Evening
 
-You are welcome to join on Thursday, December 5th, from 21:00 EST at [Stone Soup] in Athens.
+You are welcome to join on Thursday, December 5th, from 20:00 EET at [Stone Soup] in Athens.
 
 [Yannis Gravezas] will kick off the evening by presenting [Lua Vision], what it is, how it works and how you can contribute.
 
