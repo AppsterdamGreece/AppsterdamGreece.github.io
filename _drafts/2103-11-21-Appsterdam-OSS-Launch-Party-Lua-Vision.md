@@ -15,9 +15,11 @@ You are welcome to join on Thursday, December 5th, from 21:00 EST at [Stone Soup
 
 [Giannis Gravezas] will kick of the evening by presenting [Lua Vision], what it is, how it works and how you can contribute.
 
-We will provide several workstations with [Lua Vision] installed connected to a [Kinect] and a projector, and, off course, you can bring your own machine. We will help you get set up, answer any queston and show you what the module is capable of.
+We will provide several workstations with [Lua Vision] installed connected to a [Kinect] and a projector, and, off course, you can bring your own machine. We will help you get set up, answer any question and show you what the module is capable of.
 
 We will provide some drinks and snacks and will accept donations to share in the costs.
+
+Places are limited so please [RSVP here](https://www.facebook.com/events/1385748788339397).
 
 ## Lua Vision, an Open Source Kinect module in Lua
 
@@ -78,6 +80,7 @@ The module features:
 **[Stone Soup]**  
 *[Charilou Trikoupi 18, 5th floor](http://maps.google.com?q=Charilou%20Trikoupi%2018,%20Athens,%20Greece)*  
 *Contact: [greece@appsterdam.rs](mailto:greece@appsterdam.rs)*
+*[Event RSVP](https://www.facebook.com/events/1385748788339397)
 
 
 [Giannis Gravezas]: https://github.com/wizgrav "Giannis Gravezas On Github"
