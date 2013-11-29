@@ -9,13 +9,22 @@ We are happy to announce the first Appsterdam OSS Launch Party. We hope it will 
 
 On Thursday, November the 28th, [Giannis Gravezas] will launch and present [Lua Vision].
 
+## The Evening
+
+You are welcome to join on Thursday, November 28th, from 21:00 EST at [Stone Soup] in Athens.
+
+[Giannis Gravezas] will kick of the evening by presenting [Lua Vision], what it is, how it works and how you can contribute.
+
+We will provide several workstations with [Lua Vision] installed connected to a [Kinect] and a projector, and, off course, you can bring your own machine. We will help you get set up, answer any queston and show you what the module is capable of.
+
+We will provide some drinks and snacks and will accept donations to share in the costs.
+
 ## Lua Vision, an Open Source Kinect module in Lua
 
 [Lua Vision] is a module that provides facilities for using depth data in [Lua].
 It's main target is the primesense chipset which powers the Microsoft [Kinect].
 
 [Lua Vision] is aimed at both coders and artist who want to create artistic and academic visuals driven by the [Kinect].
-
 
 The module features:
 
@@ -25,13 +34,6 @@ The module features:
 * Access to the raw depth data for further use eg with skeltrack
 * It uses the buffers provided from the void module or LuaJit FFI 
 
-## The Evening
-
-You are welcome to join the event on Thursday, November 28th, from 21:00 EST at [Stone Soup] in Athens.
-
-[Giannis Gravezas] will kick of the evening by presenting [Lua Vision], what it is, how it works and how you can contribute.
-
-We will provide several workstations with [Lua Vision] installed connected to a [Kinect] and a projector, and, off course, you can bring your own machine. We will help you get set up, answer any queston and show you what the module is capable of.
 
 ### About the Presentor
 
@@ -73,13 +75,13 @@ We will provide several workstations with [Lua Vision] installed connected to a 
 
 ### About The Venue
 
-**Stone Soup**  
-*Charilou Trikoupi 18, 5th floor*  
-*Contact: olga@appsterdam.rs*
+**[Stone Soup]**  
+*[Charilou Trikoupi 18, 5th floor](http://maps.google.com?q=Charilou%20Trikoupi%2018,%20Athens,%20Greece)*  
+*Contact: [greece@appsterdam.rs](mailto:greece@appsterdam.rs)*
 
 
 [Giannis Gravezas]: https://github.com/wizgrav "Giannis Gravezas On Github"
 [Lua Vision]: https://github.com/wizgrav/lua-vision "Lua Vision On Github"
 [Kinect]: http://openkinect.org/ "Open Kinect"
 [Lua]: http://www.lua.org "The Programming Language Lua"
-[Stone Soup]: https://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=Charilaou+Trikoupi+18,+Athens,+Greece&aq=0&oq=charilou+trikoupi+18,+athens&sll=37.0625,-95.677068&sspn=50.244827,77.607422&vpsrc=0&ie=UTF8&hq=&hnear=Charilaou+Trikoupi+18,+Athina+106+79,+Greece&t=m&z=16&iwloc=A
+[Stone Soup]: http://stonesoup.io
