@@ -7,11 +7,11 @@ categories: events announcements oss
 
 We are happy to announce the first Appsterdam OSS Launch Party. We hope it will be the first of many.
 
-On Thursday, November the 28th, [Giannis Gravezas] will launch and present [Lua Vision].
+On Thursday, December 5th, [Giannis Gravezas] will launch and present [Lua Vision].
 
 ## The Evening
 
-You are welcome to join on Thursday, November 28th, from 21:00 EST at [Stone Soup] in Athens.
+You are welcome to join on Thursday, December 5th, from 21:00 EST at [Stone Soup] in Athens.
 
 [Giannis Gravezas] will kick of the evening by presenting [Lua Vision], what it is, how it works and how you can contribute.
 
