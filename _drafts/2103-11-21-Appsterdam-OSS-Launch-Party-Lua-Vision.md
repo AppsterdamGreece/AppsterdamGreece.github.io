@@ -14,7 +14,9 @@ On Thursday, December 5th, [Yannis Gravezas] will launch and present [Lua Vision
 You are welcome to join on Thursday, December 5th, from 21:00 EST at [Stone Soup] in Athens.
 
 [Yannis Gravezas] will kick off the evening by presenting [Lua Vision], what it is, how it works and how you can contribute.
+
 Panos Xinos will introduce the Lua language, it's features and his real world experience with it.
+
 Stefanos Poiitidis will explain LuaJit & FFI, a revolutionary concept that brings native performance to scripting
 
 We will provide several workstations with [Lua Vision] installed connected to a [Kinect] and a projector, and, of course, you can bring your own machine. We will help you get set up, answer any question and show you what the module is capable of.
@@ -86,7 +88,8 @@ The module features:
 
 
 [Yannis Gravezas]: https://github.com/wizgrav "Giannis Gravezas On Github"
-[Lua Vision]: https://github.com/wizgrav/lua-vision "Lua Vision On Github"
+[Lua Vision]: https://github.com/LuaVision/lua-vision "Lua Vision On Github"
 [Kinect]: http://openkinect.org/ "Open Kinect"
 [Lua]: http://www.lua.org "The Programming Language Lua"
+[LuaJit]: http://www.luajit.org "Lua on steroids"
 [Stone Soup]: http://stonesoup.io
