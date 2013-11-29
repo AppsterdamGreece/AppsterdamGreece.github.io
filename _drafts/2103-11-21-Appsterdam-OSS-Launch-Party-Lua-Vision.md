@@ -15,9 +15,9 @@ You are welcome to join on Thursday, December 5th, from 21:00 EST at [Stone Soup
 
 [Yannis Gravezas] will kick off the evening by presenting [Lua Vision], what it is, how it works and how you can contribute.
 
-Panos Xinos will introduce the Lua language, it's features and his real world experience with it.
+[Panos Xinos] will introduce the Lua language, it's features and his real world experience with it.
 
-Stefanos Poiitidis will explain LuaJit & FFI, a revolutionary concept that brings native performance to scripting
+[Stefanos Poiitidis] will explain [LuaJit] & FFI, a revolutionary concept that brings native performance to scripting
 
 We will provide several workstations with [Lua Vision] installed connected to a [Kinect] and a projector, and, of course, you can bring your own machine. We will help you get set up, answer any question and show you what the module is capable of.
 
@@ -93,3 +93,5 @@ The module features:
 [Lua]: http://www.lua.org "The Programming Language Lua"
 [LuaJit]: http://www.luajit.org "Lua on steroids"
 [Stone Soup]: http://stonesoup.io
+[Panos Xinos]: https://twitter.com/tehn00b "Panos Xinos on Twitter"
+[Stefanos Poiitidis]: https://twitter.com/drkiiraziel "Stefanos Poiitidis on Twitter"
