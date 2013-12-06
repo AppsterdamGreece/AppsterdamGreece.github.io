@@ -33,7 +33,7 @@ Lunch, snacks and drinks will be provided. To cover the costs we charge €6.00 
 
 ### Bring Your Laptop!
 
-You should bring you laptop. We will provide information over the week about what you should have installed.
+You should bring your laptop. We will provide information over the week about what you should have installed.
 
 But don't worry, there will be several people who can help you get set up during the event. Just make sure you arrive in time so they can help you.
 
