@@ -23,7 +23,7 @@ Artificial Intelligence or AI, may seem like a daunting topic to get started wit
 
 But what are the mechanics of AI, what do you type, what are the basic ingredients you need to know about?
 
-In this session Konstantinos Kostis of [SciFY] will introduce you to basics of AI.
+In this session Konstantinos Kostis of [SciFY] will introduce you to the basics of AI.
 
 During the session you will be writing a spam filter from scratch and in doing so, you will get to know all about the jargon and the mechanics of machine learning. And although we can not cover everything, you should go home with enough understanding and muscle memory to start messing around with interesting, useful and current discipline of computer science.
 
