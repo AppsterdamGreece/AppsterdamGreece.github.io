@@ -7,7 +7,7 @@ categories: events announcements guru-session
 
 _Event Date: December 14th, 11:00am_  
 _Costs: €6,- at the door_  
-_Location: [Stone Soup], Charilaou Trikoupi 18, 5th floor_
+_Location: [Stone Soup], Charilaou Trikoupi 18, 5th floor_  
 _Tickets: [Get Your Ticket on EventBrite][Ticket]_  
 
 ## About The Event
