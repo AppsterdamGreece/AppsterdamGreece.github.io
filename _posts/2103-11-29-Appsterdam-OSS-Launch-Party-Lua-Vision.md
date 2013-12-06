@@ -11,17 +11,17 @@ On Thursday, December 5th, [Yannis Gravezas] will launch and present [Lua Vision
 
 ## The Evening
 
-You are welcome to join on Thursday, December 5th, from 21:00 EST at [Stone Soup] in Athens.
+You are welcome to join on Thursday, December 5th, from 19:30 EET at [Stone Soup] in Athens.
 
-[Yannis Gravezas] will kick off the evening by presenting [Lua Vision], what it is, how it works and how you can contribute.
+At 20:00, [Yannis Gravezas] will kick off the evening by presenting [Lua Vision], what it is, how it works and how you can contribute.
 
 [Panos Xinos] will introduce the Lua language, it's features and his real world experience with it.
 
-[Stefanos Poiitidis] will explain [LuaJit] & FFI, a revolutionary concept that brings native performance to scripting
+[Stefanos Kornilios Mitsis Poiitidis] will explain [LuaJit] & FFI, a revolutionary concept that brings native performance to scripting
 
-We will provide several workstations with [Lua Vision] installed connected to a [Kinect] and a projector, and, of course, you can bring your own machine. We will help you get set up, answer any question and show you what the module is capable of.
+We will provide several workstations with [Lua Vision] installed connected to a [Kinect] and a projector, and you should bring your own machine to have some hands on fun. We will guide you through set up, answer any questions and help you discover Natural User Interfaces.
 
-We will provide some drinks and snacks and will accept donations to share in the costs.
+Some drinks and snacks will be provided and donations will be welcome to share in the costs.
 
 Places are limited so please [RSVP here](https://www.facebook.com/events/1385748788339397).
 
@@ -83,8 +83,10 @@ The module features:
 
 **[Stone Soup]**  
 *[Charilou Trikoupi 18, 5th floor](http://maps.google.com?q=Charilou%20Trikoupi%2018,%20Athens,%20Greece)*  
-*Contact: [greece@appsterdam.rs](mailto:greece@appsterdam.rs)*
-*[Event RSVP](https://www.facebook.com/events/1385748788339397)
+*Contact: [greece@appsterdam.rs](mailto:greece@appsterdam.rs)*  
+*[Event RSVP](https://www.facebook.com/events/1385748788339397)*  
+
+Make sure to claim [your ticket here](http://www.eventbrite.com/e/appsterdam-oss-launch-party-lua-vision-tickets-9584578733).
 
 
 [Yannis Gravezas]: https://github.com/wizgrav "Giannis Gravezas On Github"
@@ -94,4 +96,4 @@ The module features:
 [LuaJit]: http://www.luajit.org "Lua on steroids"
 [Stone Soup]: http://stonesoup.io
 [Panos Xinos]: https://twitter.com/tehn00b "Panos Xinos on Twitter"
-[Stefanos Poiitidis]: https://twitter.com/drkiiraziel "Stefanos Poiitidis on Twitter"
+[Stefanos Kornilios Mitsis Poiitidis]: https://twitter.com/drkiiraziel "Stefanos Kornilios Mitsis Poiitidis on Twitter"
