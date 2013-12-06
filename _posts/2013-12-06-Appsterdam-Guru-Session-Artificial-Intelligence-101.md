@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Appsterdam Guru Session: Artificial Intelligence 101"
-date:   2013-12-21 18:00:00
+date:   2013-12-06 18:00:00
 categories: events announcements guru-session
 ---
 
