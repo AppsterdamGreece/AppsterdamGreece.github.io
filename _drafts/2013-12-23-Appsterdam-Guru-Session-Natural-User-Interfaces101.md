@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Appsterdam Guru Session: Artificial Intelligence 101"
-date:   2014-1-11 18:00:00
+title:  "Appsterdam Guru Session: Natural User Interfaces 101"
+date:   2013-12-23 18:00:00
 categories: events announcements guru-session
 ---
 
@@ -19,15 +19,15 @@ Appsterdam Greece will host it's second Guru Session on Saturday January 11th of
 
 ### Exploring Natural User Interfaces
 
-Natural User Interfaces is an umbrella term for a variety of technologies that allow a more natural interaction with computers.
+Natural User Interfaces is an umbrella term for a variety of technologies that enable users to interact with computers in human terms.
 
-This can be achieved using various methods of which the visual feedback ones are the most prominent and powerful.
+Their use becomes all the more relevant as the internet of things materializes, and computers become invisible aids to our daily lives.
 
-The latest trend in the field is depth sensing, and the most prominent device for that is arguably the MS Kinect.
+NUI is for input what graphics is for output so among these technologies, the visual feedback ones are the most prominent and powerful.
 
-But what are the basic principles behind depth cameras, and how can one actually develop with these?
+But what are the basic principles behind computer vision, and how can one actually develop apps with it?
 
-In this session Yannis Gravezas will introduce you to the basics of computer vision and NUI.
+In this session [Yannis Gravezas] will introduce you to the basics of computer vision and NUI development using the MS Kinect.
 
 During the session you will be writing a visual application for hand tracking from scratch and in doing so, you will get to know all about the jargon and the mechanics of computer vision. And although we can not cover everything, you should go home with enough understanding and muscle memory to start messing around with this interesting, useful and current discipline of computer science.
 
@@ -46,7 +46,7 @@ If you don't have laptop to bring, lets us know via [Twitter](https://twitter.co
 
 ### About The Presenter
 
-Yannis is a NUI enginneer and active contributor to the [Open Kinect] project. He is the author of [LuaVision], a scripting NUI platform.
+Yannis is a NUI engineer and active contributor to the [Open Kinect] project. He is the author of [LuaVision], a scripting NUI platform.
 
 His work has been utilised by organizations like [the Athenian School of fine arts] and [european projects for patient rehabilitation]
 
@@ -59,6 +59,7 @@ His work has been utilised by organizations like [the Athenian School of fine ar
 
 Get your [ticket on EventBrite][Ticket]
 
+[Yannis Gravezas] http://www.wizgrav.com
 [LuaVision]: https://github.com/LuaVision
 [Ticket]: https://www.eventbrite.com/e/appsterdam-greece-guru-session-artificial-intelligence-101-tickets-9693570731
 [Stone Soup]: http://stonesoup.io
