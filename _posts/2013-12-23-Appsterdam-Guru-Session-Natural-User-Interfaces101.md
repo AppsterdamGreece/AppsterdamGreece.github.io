@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Appsterdam Guru Session: Natural User Interfaces 101"
+title:  "Guru Session: Natural User Interfaces 101"
 date:   2013-12-23 18:00:00
 categories: events announcements guru-session
 ---
 
 _Event Date: January 11th, 11:00am_  
 _Costs: €6,- at the door_  
-_Location: [Stone Soup], Charilaou Trikoupi 18, 5th floor_  
+_Location: [Stone Soup], [Charilaou Trikoupi 18, 5th floor][address]_  
 _Tickets: [Get Your Ticket on EventBrite][Ticket]_  
 
 ## About The Event
@@ -59,10 +59,11 @@ His work has been utilised by organizations like [the Athenian School of fine ar
 
 Get your [ticket on EventBrite][Ticket]
 
-[Yannis Gravezas] http://www.wizgrav.com
+[Yannis Gravezas]: http://www.wizgrav.com
 [LuaVision]: https://github.com/LuaVision
 [Ticket]: https://www.eventbrite.com/e/appsterdam-guru-session-natural-user-interfaces-101-tickets-9925962822
 [Stone Soup]: http://stonesoup.io
 [Open Kinect]: http://www.openkinect.org
 [the Athenian School of fine arts]: https://www.youtube.com/watch?v=uXRKgvox1xQ
 [european projects for patient rehabilitation]: http://www.strokeback.eu/
+[address]: https://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=Charilaou+Trikoupi+18,+Athens,+Greece&aq=0&oq=Charilaou+Trikoupi+18,+athens,+&sll=38.068535,23.821128&sspn=0.012298,0.021329&vpsrc=0&ie=UTF8&hq=&hnear=Charilaou+Trikoupi+18,+Athina+106+79,+Greece&t=m&z=16&iwloc=A
