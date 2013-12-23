@@ -61,7 +61,7 @@ Get your [ticket on EventBrite][Ticket]
 
 [Yannis Gravezas] http://www.wizgrav.com
 [LuaVision]: https://github.com/LuaVision
-[Ticket]: https://www.eventbrite.com/e/appsterdam-greece-guru-session-artificial-intelligence-101-tickets-9693570731
+[Ticket]: https://www.eventbrite.com/e/appsterdam-guru-session-natural-user-interfaces-101-tickets-9925962822
 [Stone Soup]: http://stonesoup.io
 [Open Kinect]: http://www.openkinect.org
 [the Athenian School of fine arts]: https://www.youtube.com/watch?v=uXRKgvox1xQ
