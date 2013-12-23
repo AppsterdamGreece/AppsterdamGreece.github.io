@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Guru Session: Natural User Interfaces 101"
-date:   2013-12-23 18:00:00
+date:   2013-12-23 12:00:00
 categories: events announcements guru-session
 ---
 
