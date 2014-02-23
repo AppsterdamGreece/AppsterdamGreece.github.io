@@ -1,0 +1,23 @@
+# Logfile created on 2014-02-23 17:31:14 +0200 by logger.rb/44203
+I, [2014-02-23T17:31:14.702834 #23023]  INFO -- : 0:  blankslate (2.1.2.4) from /Users/klaas/.rvm/gems/ruby-2.1.0/specifications/blankslate-2.1.2.4.gemspec
+I, [2014-02-23T17:31:14.704438 #23023]  INFO -- : 0:  fast-stemmer (1.0.2) from /Users/klaas/.rvm/gems/ruby-2.1.0/specifications/fast-stemmer-1.0.2.gemspec
+I, [2014-02-23T17:31:14.704873 #23023]  INFO -- : 0:  classifier (1.3.4) from /Users/klaas/.rvm/gems/ruby-2.1.0/specifications/classifier-1.3.4.gemspec
+I, [2014-02-23T17:31:16.223296 #23023]  INFO -- : 0:  colorator (0.1) from /Users/klaas/.rvm/gems/ruby-2.1.0/specifications/colorator-0.1.gemspec
+I, [2014-02-23T17:31:16.223726 #23023]  INFO -- : 0:  highline (1.6.20) from /Users/klaas/.rvm/gems/ruby-2.1.0/specifications/highline-1.6.20.gemspec
+I, [2014-02-23T17:31:17.833200 #23023]  INFO -- : 0:  commander (4.1.6) from /Users/klaas/.rvm/gems/ruby-2.1.0/specifications/commander-4.1.6.gemspec
+I, [2014-02-23T17:31:17.833656 #23023]  INFO -- : 0:  ffi (1.9.3) from /Users/klaas/.rvm/gems/ruby-2.1.0/specifications/ffi-1.9.3.gemspec
+I, [2014-02-23T17:31:17.834041 #23023]  INFO -- : 0:  liquid (2.5.5) from /Users/klaas/.rvm/gems/ruby-2.1.0/specifications/liquid-2.5.5.gemspec
+I, [2014-02-23T17:31:17.834439 #23023]  INFO -- : 0:  rb-fsevent (0.9.4) from /Users/klaas/.rvm/gems/ruby-2.1.0/specifications/rb-fsevent-0.9.4.gemspec
+I, [2014-02-23T17:31:17.834992 #23023]  INFO -- : 0:  rb-inotify (0.9.3) from /Users/klaas/.rvm/gems/ruby-2.1.0/specifications/rb-inotify-0.9.3.gemspec
+I, [2014-02-23T17:31:19.433676 #23023]  INFO -- : 0:  rb-kqueue (0.2.2) from /Users/klaas/.rvm/gems/ruby-2.1.0/specifications/rb-kqueue-0.2.2.gemspec
+I, [2014-02-23T17:31:19.434553 #23023]  INFO -- : 0:  listen (1.3.1) from /Users/klaas/.rvm/gems/ruby-2.1.0/specifications/listen-1.3.1.gemspec
+I, [2014-02-23T17:31:19.435042 #23023]  INFO -- : 0:  maruku (0.7.1) from /Users/klaas/.rvm/gems/ruby-2.1.0/specifications/maruku-0.7.1.gemspec
+I, [2014-02-23T17:31:19.435494 #23023]  INFO -- : 0:  posix-spawn (0.3.8) from /Users/klaas/.rvm/gems/ruby-2.1.0/specifications/posix-spawn-0.3.8.gemspec
+I, [2014-02-23T17:31:19.436522 #23023]  INFO -- : 0:  yajl-ruby (1.1.0) from /Users/klaas/.rvm/gems/ruby-2.1.0/specifications/yajl-ruby-1.1.0.gemspec
+I, [2014-02-23T17:31:19.437175 #23023]  INFO -- : 0:  pygments.rb (0.5.4) from /Users/klaas/.rvm/gems/ruby-2.1.0/specifications/pygments.rb-0.5.4.gemspec
+I, [2014-02-23T17:31:23.736255 #23023]  INFO -- : 0:  redcarpet (2.3.0) from /Users/klaas/.rvm/gems/ruby-2.1.0/specifications/redcarpet-2.3.0.gemspec
+I, [2014-02-23T17:31:25.406196 #23023]  INFO -- : 0:  safe_yaml (0.9.7) from /Users/klaas/.rvm/gems/ruby-2.1.0/specifications/safe_yaml-0.9.7.gemspec
+I, [2014-02-23T17:31:27.112754 #23023]  INFO -- : 0:  parslet (1.5.0) from /Users/klaas/.rvm/gems/ruby-2.1.0/specifications/parslet-1.5.0.gemspec
+I, [2014-02-23T17:31:28.683475 #23023]  INFO -- : 0:  toml (0.1.1) from /Users/klaas/.rvm/gems/ruby-2.1.0/specifications/toml-0.1.1.gemspec
+I, [2014-02-23T17:31:30.898962 #23023]  INFO -- : 0:  jekyll (1.4.3) from /Users/klaas/.rvm/gems/ruby-2.1.0/specifications/jekyll-1.4.3.gemspec
+I, [2014-02-23T17:31:30.899816 #23023]  INFO -- : 0:  bundler (1.5.1) from /Users/klaas/.rvm/gems/ruby-2.1.0@global/specifications/bundler-1.5.1.gemspec
