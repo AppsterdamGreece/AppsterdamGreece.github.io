@@ -281,6 +281,14 @@ article blockquote p {
 	font-style: italic;
 }
 
+article p strong {
+	font-weight: 800;
+}
+
+article p em {
+	font-style: italic;
+}
+
 .paypal_button input {
 	width: 200px;
 	height: 80px;
